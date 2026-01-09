@@ -158,5 +158,4 @@ LLM_API_KEY=your_llm_api_key
 CORS_ORIGINS=https://fynd-feedback-system.onrender.com
 ```
 ---
-Live : User : https://fynd-feedback-system.onrender.com
-       Admin: https://fynd-feedback-system.onrender.com/admin
+# Live : User : https://fynd-feedback-system.onrender.com  Admin: https://fynd-feedback-system.onrender.com/admin
